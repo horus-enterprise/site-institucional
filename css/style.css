@@ -140,6 +140,10 @@ a {
   margin-left: 96px;
 }
 
+.arrow{
+  margin-left: 100%;
+}
+
 .about-us {
   /* margin-top: 100px; */
   display: flex;
@@ -387,6 +391,10 @@ footer {
 
   .text-welcome h1 {
     font-size: 32px;
+  }
+
+  .arrow{
+    margin-bottom: -128px;
   }
 
   .about-us {
